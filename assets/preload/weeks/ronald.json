@@ -1,0 +1,41 @@
+{
+	"storyName": "RON :)",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "ron",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Certified Champion",
+			"ronathan",
+			[
+				215,
+				195,
+				0
+			]
+		],
+		[
+			"rong-aisle",
+			"rondvd",
+			[
+				215,
+				195,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "ron :)"
+}

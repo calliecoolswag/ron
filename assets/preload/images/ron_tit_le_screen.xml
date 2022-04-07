@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ron_tit_le_screen.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="balls0000" x="0" y="0" width="2271" height="795"/>
+	<SubTexture name="balls0001" x="2271" y="0" width="2271" height="795"/>
+	<SubTexture name="balls0002" x="4542" y="0" width="2271" height="795"/>
+	<SubTexture name="balls0003" x="0" y="795" width="2271" height="795"/>
+	<SubTexture name="balls0004" x="2271" y="795" width="2271" height="795"/>
+	<SubTexture name="balls0005" x="4542" y="795" width="2271" height="795"/>
+	<SubTexture name="balls0006" x="0" y="1590" width="2271" height="795"/>
+	<SubTexture name="balls0007" x="2271" y="1590" width="2271" height="795"/>
+	<SubTexture name="balls0008" x="4542" y="1590" width="2271" height="795"/>
+	<SubTexture name="balls0009" x="0" y="0" width="2271" height="795"/>
+	<SubTexture name="balls0010" x="0" y="2385" width="2271" height="795"/>
+	<SubTexture name="balls0011" x="2271" y="2385" width="2271" height="795"/>
+	<SubTexture name="balls0012" x="4542" y="2385" width="2271" height="795"/>
+	<SubTexture name="balls0013" x="0" y="3180" width="2271" height="795"/>
+	<SubTexture name="balls0014" x="2271" y="3180" width="2271" height="795"/>
+	<SubTexture name="balls0015" x="4542" y="3180" width="2271" height="795"/>
+	<SubTexture name="balls0016" x="0" y="3975" width="2271" height="795"/>
+	<SubTexture name="balls0017" x="2271" y="3975" width="2271" height="795"/>
+	<SubTexture name="balls0018" x="4542" y="3975" width="2271" height="795"/>
+	<SubTexture name="balls0019" x="0" y="4770" width="2271" height="795"/>
+	<SubTexture name="balls0020" x="2271" y="4770" width="2271" height="795"/>
+	<SubTexture name="balls0021" x="4542" y="4770" width="2271" height="795"/>
+	<SubTexture name="balls0022" x="0" y="5565" width="2271" height="795"/>
+	<SubTexture name="balls0023" x="2271" y="5565" width="2271" height="795"/>
+	<SubTexture name="balls0024" x="4542" y="5565" width="2271" height="795"/>
+	<SubTexture name="balls0025" x="0" y="6360" width="2271" height="795"/>
+	<SubTexture name="balls0026" x="2271" y="6360" width="2271" height="795"/>
+	<SubTexture name="balls0027" x="4542" y="6360" width="2271" height="795"/>
+	<SubTexture name="balls0028" x="0" y="7155" width="2271" height="795"/>
+	<SubTexture name="balls0029" x="2271" y="7155" width="2271" height="795"/>
+	<SubTexture name="balls0030" x="4542" y="7155" width="2271" height="795"/>
+	<SubTexture name="balls0044" x="0" y="0" width="2271" height="795"/>
+	<SubTexture name="balls0046" x="0" y="0" width="2271" height="795"/>
+	<SubTexture name="balls0048" x="0" y="0" width="2271" height="795"/>
+	<SubTexture name="balls0050" x="0" y="0" width="2271" height="795"/>
+	<SubTexture name="balls0052" x="0" y="0" width="2271" height="795"/>
+	<SubTexture name="balls0054" x="0" y="0" width="2271" height="795"/>
+	<SubTexture name="balls0123" x="0" y="0" width="2271" height="795"/>
+</TextureAtlas>
